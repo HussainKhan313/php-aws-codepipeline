@@ -1,9 +1,0 @@
-{
-    "name": "nimesh/php-aws-codepipeline",
-    "description": "Your project description here",
-    "require": {
-        "php": ">=8.2.9",
-        "symfony/translation": "^5.0",
-        "nesbot/carbon": "^2.30"
-    }
-}
