@@ -3,8 +3,7 @@
     "description": "Your project description here",
     "require": {
         "php": ">=8.2.9",
-        "nesbot/carbon": "^2.30",
-        "symfony/translation": "^4.0"
+        "symfony/translation": "^5.0",
+        "nesbot/carbon": "^2.30"
     }
 }
-
