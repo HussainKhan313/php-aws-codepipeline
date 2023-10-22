@@ -2,9 +2,9 @@
     "name": "nimesh/php-aws-codepipeline",
     "description": "Your project description here",
     "require": {
-        "php": ">=5.4.16",
-        "nesbot/carbon": "^1.0",  // Use an older version that's compatible with PHP 5.4
-        "symfony/translation": "^2.0"  // Use an older version that's compatible with PHP 5.4
+        "php": "^8.2.9",  // Require PHP 8.2.9 or higher
+        "nesbot/carbon": "^2.30",
+        "symfony/translation": "^4.0"
     }
 }
 
